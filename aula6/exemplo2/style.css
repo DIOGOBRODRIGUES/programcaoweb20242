@@ -1,0 +1,30 @@
+main {
+    display: flex;
+}
+
+aside {
+    width: 30%;
+    background-color: #eaeaea;
+    padding: 10px;
+}
+
+section {
+    width: 70%;
+    padding: 10px;
+}
+
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+}
